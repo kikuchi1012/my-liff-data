@@ -366,15 +366,6 @@
     "type": "TEXT",
     "EP": "&entry.2048322378=",
     "": "",
-    "        ['id', 'entry', 'title', 'type', 'EP'],": "        [1109875509, 2048322378, 'userID_X', 'TEXT', '&entry.2048322378='],"
-  },
-  {
-    "id": 1980549060,
-    "entry": 1340142320,
-    "title": "userID_X",
-    "type": "TEXT",
-    "EP": "&entry.1340142320=",
-    "": "",
-    "        ['id', 'entry', 'title', 'type', 'EP'],": "        [1980549060, 1340142320, 'userID_X', 'TEXT', '&entry.1340142320=']"
+    "        ['id', 'entry', 'title', 'type', 'EP'],": "        [1109875509, 2048322378, 'userID_X', 'TEXT', '&entry.2048322378=']"
   }
 ]
